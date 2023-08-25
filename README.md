@@ -1,2 +1,4 @@
 # tup-lc1-c10
-lab computacion 1
+Laboratorio de computacion 1 - UTN
+
+Scripts en lenguaje C
